@@ -26,7 +26,7 @@
 </td>
 <td align="center" width="33%">
 <h3>🧩 Full stack</h3>
-<sub>APIs, databases and deployment, end to end</sub>
+<sub>APIs, databases and deployment</sub>
 </td>
 </tr>
 </table>
