@@ -8,7 +8,7 @@ Full-stack developer from Ghana. I build offline-first web, desktop and mobile-f
 
 ### Tech stack
 
-[![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,java,spring,python,cs,dotnet,mysql,postgres,supabase,sqlite,prisma,docker,git,github,vercel&perline=12)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,python,mysql,supabase,git,github,vercel&perline=8)](https://skillicons.dev)
 
 ### Connect
 
