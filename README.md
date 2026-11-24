@@ -1,16 +1,52 @@
-## Hi, I'm Abdul Manaf Ali
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Abdul%20Manaf%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Ghana&descAlignY=58&descSize=18" width="100%" alt="Abdul Manaf Ali"/>
 
-Full-stack developer from Ghana. I build offline-first web, desktop and mobile-friendly apps that solve everyday problems for schools, clinics and small businesses.
+<div align="center">
 
-- Building clean, fast apps with **React, Next.js and Node.js**
-- Comfortable across the stack: frontend, APIs, databases and deployment
-- Always learning and shipping something new
+<a href="https://manaf-brown.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=I+build+offline-first+apps+that+just+work;Schools+%C2%B7+Clinics+%C2%B7+Small+businesses;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;From+idea+to+live+product%2C+end+to+end" alt="Typing intro"/>
+</a>
 
-### Tech stack
+<br/><br/>
 
-[![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,python,mysql,supabase,git,github,vercel&perline=8)](https://skillicons.dev)
-
-### Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manaf-brown.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://manaf-brown.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-manaf-ali-4490aa284)
+![Location](https://img.shields.io/badge/Based_in-Ghana-4f46e5?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<h3>⚡ Web apps</h3>
+<sub>Fast, clean interfaces with React, Next.js and Tailwind</sub>
+</td>
+<td align="center" width="33%">
+<h3>📶 Offline-first</h3>
+<sub>PWAs that keep working on a weak connection and sync later</sub>
+</td>
+<td align="center" width="33%">
+<h3>🧩 Full stack</h3>
+<sub>APIs, databases, auth and deployment, from idea to live product</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<h3>🛠️ Tech stack</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,supabase,git,github,vercel&theme=dark" alt="Backend and tools"/>
+
+<br/><br/>
+
+<sub>Frontend &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Data &nbsp;·&nbsp; Shipping</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4f46e5,100:0f172a&height=110&section=footer" width="100%" alt=""/>
