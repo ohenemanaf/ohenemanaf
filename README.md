@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=130&section=header&text=Abdul%20Manaf%20Ali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Ghana&descAlignY=60&descSize=15" width="100%" alt="Abdul Manaf Ali"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=160&section=header&text=Abdul%20Manaf%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20Ghana&descAlignY=54&descSize=16" width="100%" alt="Abdul Manaf Ali"/>
 
 <p align="center">
   <a href="https://manaf-brown.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=620&height=30&lines=I+build+offline-first+apps+that+just+work;Schools+%C2%B7+Clinics+%C2%B7+Small+businesses;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;From+idea+to+live+product%2C+end+to+end" alt="Typing intro"/></a>
