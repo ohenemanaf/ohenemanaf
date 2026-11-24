@@ -3,10 +3,8 @@
 <div align="center">
 
 <a href="https://manaf-brown.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=I+build+offline-first+apps+that+just+work;Schools+%C2%B7+Clinics+%C2%B7+Small+businesses;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;From+idea+to+live+product%2C+end+to+end" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&height=40&lines=I+build+offline-first+apps+that+just+work;Schools+%C2%B7+Clinics+%C2%B7+Small+businesses;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;From+idea+to+live+product%2C+end+to+end" alt="Typing intro"/>
 </a>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://manaf-brown.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-manaf-ali-4490aa284)
@@ -20,15 +18,15 @@
 <tr>
 <td align="center" width="33%">
 <h3>⚡ Web apps</h3>
-<sub>Fast, clean interfaces with React, Next.js and Tailwind</sub>
+<sub>Fast, clean interfaces that feel good to use</sub>
 </td>
 <td align="center" width="33%">
 <h3>📶 Offline-first</h3>
-<sub>PWAs that keep working on a weak connection and sync later</sub>
+<sub>Apps that keep working without internet</sub>
 </td>
 <td align="center" width="33%">
 <h3>🧩 Full stack</h3>
-<sub>APIs, databases, auth and deployment, from idea to live product</sub>
+<sub>APIs, databases and deployment, end to end</sub>
 </td>
 </tr>
 </table>
@@ -42,10 +40,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,supabase,git,github,vercel&theme=dark" alt="Backend and tools"/>
-
-<br/><br/>
-
-<sub>Frontend &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Data &nbsp;·&nbsp; Shipping</sub>
 
 </div>
 
